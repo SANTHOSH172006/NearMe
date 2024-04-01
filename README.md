@@ -151,19 +151,17 @@ mobileshop.html
 ```
 
 ## OUTPUT
-![alt text](<santhosh/ludusapp/static/Screenshot 2024-03-28 225730.png>)
+![alt text](santhosh/ludusapp/static/1.png)
 
-![alt text](<santhosh/ludusapp/static/Screenshot 2024-03-28 225742.png>)
+![alt text](santhosh/ludusapp/static/2.png)
 
-![alt text](<santhosh/ludusapp/static/Screenshot 2024-03-28 225757.png>)
+![alt text](santhosh/ludusapp/static/3.png)
 
-![alt text](<santhosh/ludusapp/static/Screenshot 2024-03-28 225808.png>)
+![alt text](santhosh/ludusapp/static/4.png)
 
-![alt text](<santhosh/ludusapp/static/Screenshot 2024-03-28 225818.png>)
+![alt text](santhosh/ludusapp/static/5.png)
 
-![alt text](<santhosh/ludusapp/static/Screenshot 2024-03-28 225808.png>)
-
-![alt text](<santhosh/ludusapp/static/Screenshot 2024-03-28 225829.png>)
+![alt text](santhosh/ludusapp/static/6.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
